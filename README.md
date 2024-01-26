@@ -1,7 +1,7 @@
 # Weather App using React Native
 
 Aplikasi Weather ini dibangun menggunakan React Native dan memanfaatkan layanan cuaca API untuk menampilkan informasi cuaca terkini.
-![Image](https://ibb.co/dQj38WC)
+![Image](https://i.ibb.co/WtZ1dYM/Weather-APP.png)
 
 ## Fitur Utama
 
